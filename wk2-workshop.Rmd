@@ -1,8 +1,8 @@
 ---
 title: "wk2-workshop"
 author: "Tiffany"
-date: "2024-01-24"
-output: html_document
+date: "`r Sys.Date()`"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
